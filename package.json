@@ -1,3 +1,5 @@
+{ "dependencies": { "twikoo-vercel": "latest" } }
+
 {
   "name": "twikoo",
   "version": "1.6.39",
